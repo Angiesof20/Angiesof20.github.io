@@ -1,0 +1,37 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+body{
+background-color: aliceblue;
+}
+
+h1{
+text-align: center;
+background-color: rgb(137, 200, 255);
+color: #ffffff;
+padding: 20px;
+}
+.menú {
+padding-left: 40px;
+margin-bottom: 20px;
+}
+
+.menú h2{
+padding: 10px;
+}
+
+ol{
+padding-left: 30px;
+background-color: rgb(197, 228, 255);;
+
+}
+
+footer{
+text-align: center;
+background-color: rgb(137, 200, 255);
+padding: 20px;
+color: #ffffff;
+}
+
