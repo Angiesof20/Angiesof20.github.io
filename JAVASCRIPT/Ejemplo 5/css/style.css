@@ -1,0 +1,42 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Anek+Telugu&family=Roboto&family=Tiro+Devanagari+Hindi&family=Ubuntu:wght@300&display=swap');
+body{
+font-family: 'Tiro Devanagari Hindi', serif;
+background-color: aliceblue;
+text-align: center;
+}
+
+h1{
+color: #FFFFFF;
+text-align: center;
+padding: 30px;
+background-color: #85C1E9;
+}
+
+body header nav a{
+text-decoration: none;
+color: black;
+background-color:#FFFFFF;
+padding:10px ;
+text-align: center;
+box-shadow: 0 0 10px #2980B9;
+}
+
+.nav{
+background-color: #AED6F1;
+padding: 20px;
+text-align: center;
+box-shadow: 0 0 6px #2980B9;
+
+}
+
+body header nav a:hover{
+    background-color: #4FC3F7;
+}
+
+
+
